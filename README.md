@@ -38,5 +38,5 @@ clean-school/
 └── frontend/              # Source code Expo React Native
     ├── assets/            # Gambar dan aset aplikasi
     ├── src/               # Komponen, screen, dan logika app
-    │   └── config.js      # Konfigurasi URL API Backend 👈 (PENTING)
+    ├── app.json           # Konfigurasi aplikasi seperti images dan API
     └── App.js             # Entry point Expo

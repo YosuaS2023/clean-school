@@ -1,0 +1,19 @@
+# Mengabaikan node_modules di semua folder
+node_modules/
+
+# Mengabaikan file log/error
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mengabaikan cache milik Expo frontend
+frontend/.expo/
+frontend/.web/
+
+# Mengabaikan file env/rahasia (isinya Client Secret kamu nanti)
+.env
+.env.local
+
+# Mengabaikan file hasil build jika ukurannya terlalu besar
+# (Optional, tapi disarankan APK tidak usah masuk git, dipisah saja)
+build/build.apk

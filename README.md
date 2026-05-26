@@ -25,7 +25,7 @@ Aplikasi ini dibangun menggunakan **Expo React Native** untuk sisi *frontend* (m
 
 ---
 
-## 📂 Struktur Folder Proyek (Disarankan)
+## 📂 Struktur Folder
 
 ```text
 clean-school/
